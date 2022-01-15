@@ -18,25 +18,28 @@ LANケーブル
 roscore
  ```
  ```
-chmod +x count.py
+ chmod +x count.py
  ```
  ```
-source ~/.bashrc
+ source ~/.bashrc
  ```
  ```
-rosrun mypkg count.py
+ rosrun mypkg count.py
  ```
  ```
-
-rosnode list
+ rosrun mypkg twice.py
  ```
  ```
- 
-rostopic list
+ rosnode list
  ```
  ```
-
-rostopic echo /count_up
+ rostopic list
+ ```
+ ```
+ rostopic echo /count_up
+ ```
+ ```
+ rostopic echo /twice
  ```
 
 
