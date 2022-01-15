@@ -45,6 +45,8 @@ rostopic echo /count_up
 
 Copyright (c) 2021 Ryuich Ueda
 
+Copyright (c) 2021 Reo Yatebe
+
 
 
 > This program is free software; you can redistribute it and/or
