@@ -18,11 +18,12 @@ LANケーブル
 roscore
  ```
  ```
-
 chmod +x count.py
  ```
  ```
-
+source ~/.bashrc
+ ```
+ ```
 rosrun mypkg count.py
  ```
  ```
