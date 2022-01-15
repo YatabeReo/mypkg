@@ -26,6 +26,9 @@ source ~/.bashrc
  ```
 rosrun mypkg count.py
  ```
+  ```
+rosrun mypkg twice.py
+ ```
  ```
 
 rosnode list
@@ -37,6 +40,10 @@ rostopic list
  ```
 
 rostopic echo /count_up
+ ```
+ ```
+
+rostopic echo /twice
  ```
 
 
