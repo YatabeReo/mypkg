@@ -47,4 +47,4 @@ Copyright (c) 2021 Ryuich Ueda
 
 Copyright (c) 2021 Reo Yatebe
 
-ライセンスは別ファイルLISENCEに記述してあるので読んでから使用してください。
+ライセンスは別ファイルLICENSEに記述してあるので読んでから使用してください。
