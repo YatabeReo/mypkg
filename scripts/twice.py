@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-#SPDX-License-Identifier:BSD-2.0
+#SPDX-License-Identifier:BSD-3.0
 
 #*Copyright(c)2021 Ryuich Ueda. All rights reserved.
 #*Copyright(c)2021 Reo Yatabe. All rights reserved.
